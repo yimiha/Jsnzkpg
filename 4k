@@ -370,7 +370,7 @@
       ]
     },
     {
-      ""name": "Quad9",
+      "name": "Quad9",
       "url": "https://dns.quad9.net/dns-quer",
       "ips": [
         "9.9.9.9",
